@@ -58,7 +58,7 @@ Keyboard Shortcuts:
 The display updates automatically every second.`).
 		AddButtons([]string{"Close"}).
 		SetDoneFunc(func(buttonIndex int, buttonLabel string) {
-			// a.app.SetRoot(a., true)
+			// a.app.SetRoot(a, true)
 		})
 
 	a.app.SetRoot(modal, true)
