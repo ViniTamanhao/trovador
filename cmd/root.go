@@ -31,5 +31,5 @@ func Execute() {
 
 func init() {
 	// Global flags can go here
-	// rootCmd.PersistentFlags().BoolVarP(&verbose, "verbose", "v", false, "verbose output")
+	// TODO rootCmd.PersistentFlags().BoolVarP(&verbose, "verbose", "v", false, "verbose output")
 }
